@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/expenses-effect/static/css/main.6c63bada.css",
+    "main.js": "/expenses-effect/static/js/main.bdedf6f4.js",
+    "index.html": "/expenses-effect/index.html",
+    "main.6c63bada.css.map": "/expenses-effect/static/css/main.6c63bada.css.map",
+    "main.bdedf6f4.js.map": "/expenses-effect/static/js/main.bdedf6f4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6c63bada.css",
+    "static/js/main.bdedf6f4.js"
+  ]
+}
